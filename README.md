@@ -58,12 +58,12 @@
 
 ### Ferramentas
 
-- [JDK 21](https://jdk.java.net/21) - link direto para Windows: [openjdk-21.0.2_windows-x64_bin.zip](https://download.java.net/java/GA/jdk21.0.2/f2283984656d49d69e91c558476027ac/13/GPL/openjdk-21.0.2_windows-x64_bin.zip)
-- [Eclipse IDE for Java Developers 2023-12](https://www.eclipse.org/downloads/packages/release/2023-12/r/eclipse-ide-java-developers) - link direto para Windows: [eclipse-java-2023-12-R-win32-x86_64.zip](https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2023-12/R/eclipse-java-2023-12-R-win32-x86_64.zip)
+- <a href="https://jdk.java.net/21" target="_blank">JDK 21</a> - link direto para Windows: [openjdk-21.0.2_windows-x64_bin.zip](https://download.java.net/java/GA/jdk21.0.2/f2283984656d49d69e91c558476027ac/13/GPL/openjdk-21.0.2_windows-x64_bin.zip)
+- <a href="https://www.eclipse.org/downloads/packages/release/2023-12/r/eclipse-ide-java-developers" target="_blank">Eclipse IDE for Java Developers 2023-12</a> - link direto para Windows: [eclipse-java-2023-12-R-win32-x86_64.zip](https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2023-12/R/eclipse-java-2023-12-R-win32-x86_64.zip)
 
 ### Referências e recursos
 
-- ORACLE. **Java Documentation**. Disponível em [https://docs.oracle.com/en/java/](https://docs.oracle.com/en/java/).
+- ORACLE. **Java Documentation**. Disponível em <a href="https://docs.oracle.com/en/java/" target="_blank">https://docs.oracle.com/en/java/</a>.
 - KISHIMOTO, A. **Configuração da máquina para desenvolvimento Java**. Disponível [aqui](conteudo/semana-1/EDI%20-%20Configuração%20da%20máquina%20para%20desenvolvimento%20Java%20-%20v1.2.pdf).
 
 ## Semana 2 (15/02, 16/02)
