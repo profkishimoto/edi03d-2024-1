@@ -99,7 +99,7 @@
 
 ### Arquivos
 
-- [???]()
+- [Mini-zine sobre pilha (stack)](conteudo/semana-3/minizine_pilha_ak.pdf)
 
 ### Referências e recursos
 
