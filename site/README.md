@@ -8,11 +8,17 @@
 > **FCI** – Faculdade de Computação e Informática<br>
 > **Ciência da Computação**<br>
 > Disciplina: **Estrutura de Dados I – 03D** (3ª etapa)<br>
-> Professor: **André Kishimoto** (andre.kishimoto@mackenzie.br)
+> Professor: **André Kishimoto**
 
 > **1º semestre 2024**<br>
 > **quinta-feira** (02 h/a), **09:20** às **11:00**, prédio 31 – sala 301<br>
 > **sexta-feira** (02 h/a), **07:30** às **09:10**, prédio 33 - sala 104
+
+
+### Como entrar em contato com o professor?
+
+E-mail: <a href="mailto:andre.kishimoto@mackenzie.br">andre.kishimoto@mackenzie.br</a>
+
 
 ### Calendário Escolar
 
@@ -24,11 +30,12 @@
 **Plano de ensino** disponível no link a seguir:
 [Plano de ensino](conteudo/plano-de-ensino/CC_3D_Plano_de_ensino_EstruturadeDadosI_2024_1.pdf)
 
+
 ## EXERCÍCIOS E AVALIAÇÕES
 
 - [Lab1a - Lista de exercícios 1 (entrega até 01/03/2024 23:59)](atividades/n1/EDI-2024.1%20-%20Lab1a%20-%20Lista%20de%20Exercícios%201.pdf)
 - [Lab1b - Java e POO (entrega até 01/03/2024 23:59)](atividades/n1/EDI-2024.1%20-%20Lab1b%20-%20Java%20e%20POO%20-%20Classe%20Palindromo.pdf)
-- Lab1c - TAD Pilha sequencial (entrega até 08/03/2024 23:59)
+- [Lab1c - TAD Pilha sequencial (entrega até 08/03/2024 23:59)](atividades/n1/EDI-2024.1%20-%20Lab1c%20-%20TAD%20Pilha.pdf)
 
 
 ## ÍNDICE DE AULAS
@@ -36,6 +43,7 @@
 - [Semana 1: Apresentação da disciplina e introdução Java](#semana-1-0802-0902)
 - [Semana 2: Tipos de dados](#semana-2-1502-1602)
 - [Semana 3: TAD Pilha sequencial/estática](#semana-3-2202-2302)
+
 
 ## Semana 1 (08/02, 09/02)
 
@@ -65,6 +73,7 @@
 
 - ORACLE. **Java Documentation**. Disponível em <a href="https://docs.oracle.com/en/java/" target="_blank">https://docs.oracle.com/en/java/</a>.
 - KISHIMOTO, A. **Configuração da máquina para desenvolvimento Java**. Disponível [aqui](conteudo/semana-1/EDI%20-%20Configuração%20da%20máquina%20para%20desenvolvimento%20Java%20-%20v1.2.pdf).
+
 
 ## Semana 2 (15/02, 16/02)
 
