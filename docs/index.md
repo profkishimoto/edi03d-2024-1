@@ -59,10 +59,10 @@ E-mail: <a href="mailto:andre.kishimoto@mackenzie.br">andre.kishimoto@mackenzie.
 
 ### Arquivos
 
-- [Apresentação](conteudo/semana-1/Apresentação.pdf)
-- [Configuração da máquina para desenvolvimento Java](conteudo/semana-1/EDI%20-%20Configuração%20da%20máquina%20para%20desenvolvimento%20Java%20-%20v1.2.pdf)
-- [Programação de Computadores (versão "Java 101")](conteudo/semana-1/Java101.pdf)
-- [Programação de Computadores (resumo "Java 101")](conteudo/semana-1/Java101-resumo.pdf)
+- [Apresentação (pdf)](conteudo/semana-1/Apresentação.pdf)
+- [Configuração da máquina para desenvolvimento Java (pdf)](conteudo/semana-1/EDI%20-%20Configuração%20da%20máquina%20para%20desenvolvimento%20Java%20-%20v1.2.pdf)
+- [Programação de Computadores (versão "Java 101") (pdf)](conteudo/semana-1/Java101.pdf)
+- [Programação de Computadores (resumo "Java 101") (pdf)](conteudo/semana-1/Java101-resumo.pdf)
 
 ### Ferramentas
 
@@ -86,7 +86,8 @@ E-mail: <a href="mailto:andre.kishimoto@mackenzie.br">andre.kishimoto@mackenzie.
 
 ### Arquivos
 
-- [Tipos de Dados](conteudo/semana-2/TiposDeDados.pdf)
+- [Tipos de Dados (pdf)](conteudo/semana-2/TiposDeDados.pdf)
+- [Classe Estudante - Exemplo Java criado em aula (zip)](conteudo/semana-2/ExemploEmAula-ClasseEstudante.zip)
 
 ### Referências e recursos
 
@@ -108,7 +109,7 @@ E-mail: <a href="mailto:andre.kishimoto@mackenzie.br">andre.kishimoto@mackenzie.
 
 ### Arquivos
 
-- [Mini-zine sobre pilha (stack)](conteudo/semana-3/minizine_pilha_ak.pdf)
+- [Mini-zine sobre pilha (stack) (pdf)](conteudo/semana-3/minizine_pilha_ak.pdf)
 
 ### Referências e recursos
 
