@@ -7,31 +7,31 @@
 > **Universidade Presbiteriana Mackenzie**<br>
 > **FCI** – Faculdade de Computação e Informática<br>
 > **Ciência da Computação**<br>
-> Disciplina: **Estrutura de Dados I – 03D** (3ª etapa)<br>
+> Disciplina: **Estrutura de Dados I** (3ª etapa)<br>
 > Professor: **André Kishimoto**
 
 > **1º semestre 2024**<br>
-> **quinta-feira** (02 h/a), **09:20** às **11:00**, prédio 31 – sala 301<br>
-> **sexta-feira** (02 h/a), **07:30** às **09:10**, prédio 33 - sala 104
-
-
-### Como entrar em contato com o professor?
-
-E-mail: <a href="mailto:andre.kishimoto@mackenzie.br">andre.kishimoto@mackenzie.br</a>
-
+> **quinta-feira**, **09:20** às **11:00** (2hs/aula) - 03D (**prédio 31 - sala 301**)<br>
+> **sexta-feira**, **07:30** às **09:10** (2hs/aula) - 03D11 (**prédio 33 - sala 104**)
 
 ### Calendário Escolar
 
 **Calendário Escolar**, **Regulamento Acadêmico** e outras informações: <a href="https://www.mackenzie.br/universidade/processos-academicos-para-coordenadoria-geral-de-relacionamento-e-atendimento/informacoes-ao-aluno/calendario-escolar" target="_blank">CLIQUE AQUI</a>
 
-
 ### Plano de ensino
 
 **Plano de ensino** disponível no link a seguir:
-[Plano de ensino](conteudo/plano-de-ensino/CC_3D_Plano_de_ensino_EstruturadeDadosI_2024_1.pdf)
+[Plano de ensino (pdf)](conteudo/plano-de-ensino/CC_3D_Plano_de_ensino_EstruturadeDadosI_2024_1.pdf)
+
+### Como entrar em contato com o professor?
+
+- **Moodle**: envie mensagem direta.
+- **E-mail**: <a href="mailto:andre.kishimoto@mackenzie.br">andre.kishimoto@mackenzie.br</a>
 
 
 ## EXERCÍCIOS E AVALIAÇÕES
+
+**Atenção!** As entregas das atividades devem ser realizadas pelo Moodle!
 
 - [Lab1a - Lista de exercícios 1 (entrega até 01/03/2024 23:59)](atividades/n1/EDI-2024.1%20-%20Lab1a%20-%20Lista%20de%20Exercícios%201.pdf)
 - [Lab1b - Java e POO (entrega até 01/03/2024 23:59)](atividades/n1/EDI-2024.1%20-%20Lab1b%20-%20Java%20e%20POO%20-%20Classe%20Palindromo.pdf)
