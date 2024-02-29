@@ -43,6 +43,7 @@
 - [Semana 1: Apresentação da disciplina e introdução Java](#semana-1-0802-0902)
 - [Semana 2: Tipos de dados](#semana-2-1502-1602)
 - [Semana 3: TAD Pilha sequencial/estática](#semana-3-2202-2302)
+- [Semana 4: TAD Pilha sequencial/estática](#semana-4-2902-0103)
 
 
 ## Semana 1 (08/02, 09/02)
@@ -110,6 +111,28 @@
 ### Arquivos
 
 - [Mini-zine sobre pilha (stack) (pdf)](conteudo/semana-3/minizine_pilha_ak.pdf)
+- [Pilha parcial - Exemplo Java criado em aula (zip)](conteudo/semana-3/ExemploEmAula-PilhaParcial.zip)
+
+### Referências e recursos
+
+- GOODRICH, M. T.; TAMASSIA, R. **Estruturas de dados e algoritmos em Java**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Capítulo 5, seção 5.1 (Pilhas)
+- CELES, W.; CERQUEIRA, R.; RANGEL, J. L. **Introdução a Estruturas de Dados com técnicas em programação em C, 2ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Capítulo 15, seção 15.1 (Pilhas)
+
+
+## Semana 4 (29/02, 01/03)
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- TAD Pilha sequencial/estática.
+- Desenvolvimento das atividades.
+
+### Arquivos
+
+- [Problemas de pilha](conteudo/semana-4/EDI-2024.1%20-%20Problemas%20de%20pilha.pdf)
 
 ### Referências e recursos
 
