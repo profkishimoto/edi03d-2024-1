@@ -36,6 +36,7 @@
 - [Lab1a - Lista de exercícios 1 (entrega até 01/03/2024 23:59)](atividades/n1/EDI-2024.1%20-%20Lab1a%20-%20Lista%20de%20Exercícios%201.pdf)
 - [Lab1b - Java e POO (entrega até 01/03/2024 23:59)](atividades/n1/EDI-2024.1%20-%20Lab1b%20-%20Java%20e%20POO%20-%20Classe%20Palindromo.pdf)
 - [Lab1c - TAD Pilha sequencial (entrega até 08/03/2024 23:59)](atividades/n1/EDI-2024.1%20-%20Lab1c%20-%20TAD%20Pilha.pdf)
+- [Apl1 - Avaliador de expressões matemáticas (entrega até 05/04/2024 23:59)](atividades/n1/EDI-2024.1%20-%20Apl1.pdf)
 
 
 ## ÍNDICE DE AULAS
@@ -132,7 +133,7 @@
 
 ### Arquivos
 
-- [Problemas de pilha](conteudo/semana-4/EDI-2024.1%20-%20Problemas%20de%20pilha.pdf)
+- [Problemas de pilha (pdf)](conteudo/semana-4/EDI-2024.1%20-%20Problemas%20de%20pilha.pdf)
 
 ### Referências e recursos
 
