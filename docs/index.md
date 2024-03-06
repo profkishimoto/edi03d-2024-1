@@ -157,7 +157,7 @@
 
 ### Arquivos
 
-- [Mini-zine sobre pilha (stack) (pdf)](conteudo/semana-5/minizine_fila_ak.pdf)
+- [Mini-zine sobre fila (queue) (pdf)](conteudo/semana-5/minizine_fila_ak.pdf)
 
 ### Referências e recursos
 
