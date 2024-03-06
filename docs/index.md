@@ -34,7 +34,9 @@
 **Atenção!** As entregas das atividades devem ser realizadas pelo Moodle!
 
 - [Lab1a - Lista de exercícios 1 (entrega até 01/03/2024 23:59)](atividades/n1/EDI-2024.1%20-%20Lab1a%20-%20Lista%20de%20Exercícios%201.pdf)
+  - [Resolução da atividade Lab1a](atividades/n1/Resolução%20-%20EDI-2024.1%20-%20Lab1a%20-%20Lista%20de%20Exercícios%201.zip)
 - [Lab1b - Java e POO (entrega até 01/03/2024 23:59)](atividades/n1/EDI-2024.1%20-%20Lab1b%20-%20Java%20e%20POO%20-%20Classe%20Palindromo.pdf)
+  - [Resolução da atividade Lab1b](atividades/n1/Resolução%20-%20EDI-2024.1%20-%20Lab1b%20-%20Java%20e%20POO%20-%20Classe%20Palindromo.zip)
 - [Lab1c - TAD Pilha sequencial (entrega até 08/03/2024 23:59)](atividades/n1/EDI-2024.1%20-%20Lab1c%20-%20TAD%20Pilha.pdf)
 - [Apl1 - Avaliador de expressões matemáticas (entrega até 05/04/2024 23:59)](atividades/n1/EDI-2024.1%20-%20Apl1.pdf)
 
@@ -45,6 +47,7 @@
 - [Semana 2: Tipos de dados](#semana-2-1502-1602)
 - [Semana 3: TAD Pilha sequencial/estática](#semana-3-2202-2302)
 - [Semana 4: TAD Pilha sequencial/estática](#semana-4-2902-0103)
+- [Semana 5: TAD Fila sequencial/estática](#semana-5-0703-0803)
 
 
 ## Semana 1 (08/02, 09/02)
@@ -141,3 +144,25 @@
   - Capítulo 5, seção 5.1 (Pilhas)
 - CELES, W.; CERQUEIRA, R.; RANGEL, J. L. **Introdução a Estruturas de Dados com técnicas em programação em C, 2ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
   - Capítulo 15, seção 15.1 (Pilhas)
+
+
+## Semana 5 (07/03, 08/03)
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- TAD Fila sequencial/estática.
+- Atividade Lab1d.
+
+### Arquivos
+
+- [Mini-zine sobre pilha (stack) (pdf)](conteudo/semana-5/minizine_fila_ak.pdf)
+
+### Referências e recursos
+
+- GOODRICH, M. T.; TAMASSIA, R. **Estruturas de dados e algoritmos em Java**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Capítulo 5, seção 5.2 (Filas)
+- CELES, W.; CERQUEIRA, R.; RANGEL, J. L. **Introdução a Estruturas de Dados com técnicas em programação em C, 2ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Capítulo 15, seção 15.2 (Filas)
+
