@@ -38,6 +38,7 @@
 - [Lab1b - Java e POO (entrega até 01/03/2024 23:59)](atividades/n1/EDI-2024.1%20-%20Lab1b%20-%20Java%20e%20POO%20-%20Classe%20Palindromo.pdf)
   - [Resolução da atividade Lab1b](atividades/n1/Resolução%20-%20EDI-2024.1%20-%20Lab1b%20-%20Java%20e%20POO%20-%20Classe%20Palindromo.zip)
 - [Lab1c - TAD Pilha sequencial (entrega até 08/03/2024 23:59)](atividades/n1/EDI-2024.1%20-%20Lab1c%20-%20TAD%20Pilha.pdf)
+- [Lab1d - TAD Fila sequencial (entrega até 22/03/2024 23:59)](atividades/n1/EDI-2024.1%20-%20Lab1d%20-%20TAD%20Fila.pdf)
 - [Apl1 - Avaliador de expressões matemáticas (entrega até 05/04/2024 23:59)](atividades/n1/EDI-2024.1%20-%20Apl1.pdf)
 
 
