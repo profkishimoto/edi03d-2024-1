@@ -159,6 +159,8 @@
 ### Arquivos
 
 - [Mini-zine sobre fila (queue) (pdf)](conteudo/semana-5/minizine_fila_ak.pdf)
+- [Pilha parcial para conversão de base - Exemplo Java criado em aula (zip)](conteudo/semana-5/ExemploEmAula-20240308-PilhaDec2Bin.zip)
+- [Fila parcial - Exemplo Java criado em aula (zip)](conteudo/semana-5/ExemploEmAula-20240308-FilaParcial.zip)
 
 ### Referências e recursos
 
