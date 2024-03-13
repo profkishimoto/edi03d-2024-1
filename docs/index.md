@@ -49,6 +49,7 @@
 - [Semana 3: TAD Pilha sequencial/estática](#semana-3-2202-2302)
 - [Semana 4: TAD Pilha sequencial/estática](#semana-4-2902-0103)
 - [Semana 5: TAD Fila sequencial/estática](#semana-5-0703-0803)
+- [Semana 6: Aula Magna da Graduação e TAD Fila dupla sequencial/estática](#semana-6-1403-1503)
 
 
 ## Semana 1 (08/02, 09/02)
@@ -168,4 +169,25 @@
   - Capítulo 5, seção 5.2 (Filas)
 - CELES, W.; CERQUEIRA, R.; RANGEL, J. L. **Introdução a Estruturas de Dados com técnicas em programação em C, 2ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
   - Capítulo 15, seção 15.2 (Filas)
+
+
+## Semana 6 (14/03, 15/03)
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- (14/03) Aula Magna da Graduação (não haverá aula da disciplina).
+- (15/03) TAD Fila dupla sequencial/estática.
+
+### Arquivos
+
+- TAD Fila dupla (pdf)
+
+### Referências e recursos
+
+- GOODRICH, M. T.; TAMASSIA, R. **Estruturas de dados e algoritmos em Java**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Capítulo 5, seção 5.3 (Filas com dois finais)
+- CELES, W.; CERQUEIRA, R.; RANGEL, J. L. **Introdução a Estruturas de Dados com técnicas em programação em C, 2ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Capítulo 15, seção 15.3 (Fila dupla)
 
