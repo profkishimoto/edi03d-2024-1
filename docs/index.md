@@ -50,6 +50,7 @@
 - [Semana 4: TAD Pilha sequencial/estática](#semana-4-2902-0103)
 - [Semana 5: TAD Fila sequencial/estática](#semana-5-0703-0803)
 - [Semana 6: Aula Magna da Graduação e TAD Fila dupla sequencial/estática](#semana-6-1403-1503)
+- [Semana 7: Revisão do conteúdo para a prova P1](#semana-7-2103-2203)
 
 
 ## Semana 1 (08/02, 09/02)
@@ -182,7 +183,7 @@
 
 ### Arquivos
 
-- TAD Fila dupla (pdf)
+- [TAD Fila dupla (pdf)](conteudo/semana-6/Deque.pdf)
 
 ### Referências e recursos
 
@@ -191,3 +192,20 @@
 - CELES, W.; CERQUEIRA, R.; RANGEL, J. L. **Introdução a Estruturas de Dados com técnicas em programação em C, 2ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
   - Capítulo 15, seção 15.3 (Fila dupla)
 
+
+## Semana 7 (21/03, 22/03)
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- Revisão do conteúdo para a prova P1.
+- Desenvolvimento e plantão de dúvidas das atividades (Lab1d e Apl1).
+
+### Arquivos
+
+- [Exercícios de revisão/treino para a prova P1 (pdf)](conteudo/semana-7/EDI-2024.1%20-%20Exercícios%20de%20revisão%20P1.pdf)
+
+### Referências e recursos
+
+- Ver semanas anteriores.
