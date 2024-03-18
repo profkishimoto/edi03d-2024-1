@@ -29,6 +29,18 @@
 - **E-mail**: <a href="mailto:andre.kishimoto@mackenzie.br">andre.kishimoto@mackenzie.br</a>
 
 
+## DATAS IMPORTANTES
+
+**Observação**: Datas planejadas e sujeitas a alterações.
+
+- **P1**: 28/03/2024
+- **Apl1**: 05/04/2024
+- **Apl2**: 17/05/2024
+- **Projeto**: 23/05/2024
+- **SUB**: 06/06/2024
+- **PF**: 13/06/2024
+
+
 ## EXERCÍCIOS E AVALIAÇÕES
 
 **Atenção!** As entregas das atividades devem ser realizadas pelo Moodle!
@@ -44,16 +56,16 @@
 
 ## ÍNDICE DE AULAS
 
-- [Semana 1: Apresentação da disciplina e introdução Java](#semana-1-0802-0902)
-- [Semana 2: Tipos de dados](#semana-2-1502-1602)
-- [Semana 3: TAD Pilha sequencial/estática](#semana-3-2202-2302)
-- [Semana 4: TAD Pilha sequencial/estática](#semana-4-2902-0103)
-- [Semana 5: TAD Fila sequencial/estática](#semana-5-0703-0803)
-- [Semana 6: Aula Magna da Graduação e TAD Fila dupla sequencial/estática](#semana-6-1403-1503)
-- [Semana 7: Revisão do conteúdo para a prova P1](#semana-7-2103-2203)
+- [Semana 1: Apresentação da disciplina e introdução Java](#-semana-1-0802-0902-)
+- [Semana 2: Tipos de dados](#-semana-2-1502-1602-)
+- [Semana 3: TAD Pilha sequencial/estática](#-semana-3-2202-2302-)
+- [Semana 4: TAD Pilha sequencial/estática](#-semana-4-2902-0103-)
+- [Semana 5: TAD Fila sequencial/estática](#-semana-5-0703-0803-)
+- [Semana 6: Aula Magna da Graduação e TAD Fila dupla sequencial/estática](#-semana-6-1403-1503-)
+- [Semana 7: Revisão do conteúdo para a prova P1](#-semana-7-2103-2203-)
 
 
-## Semana 1 (08/02, 09/02)
+## ■■■■■ Semana 1 (08/02, 09/02) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -83,7 +95,7 @@
 - KISHIMOTO, A. **Configuração da máquina para desenvolvimento Java**. Disponível [aqui](conteudo/semana-1/EDI%20-%20Configuração%20da%20máquina%20para%20desenvolvimento%20Java%20-%20v1.2.pdf).
 
 
-## Semana 2 (15/02, 16/02)
+## ■■■■■ Semana 2 (15/02, 16/02) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -106,7 +118,7 @@
   - Capítulo 4 (Objetos e classes)
 
 
-## Semana 3 (22/02, 23/02)
+## ■■■■■ Semana 3 (22/02, 23/02) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -128,7 +140,7 @@
   - Capítulo 15, seção 15.1 (Pilhas)
 
 
-## Semana 4 (29/02, 01/03)
+## ■■■■■ Semana 4 (29/02, 01/03) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -149,7 +161,7 @@
   - Capítulo 15, seção 15.1 (Pilhas)
 
 
-## Semana 5 (07/03, 08/03)
+## ■■■■■ Semana 5 (07/03, 08/03) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -172,7 +184,7 @@
   - Capítulo 15, seção 15.2 (Filas)
 
 
-## Semana 6 (14/03, 15/03)
+## ■■■■■ Semana 6 (14/03, 15/03) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -193,7 +205,7 @@
   - Capítulo 15, seção 15.3 (Fila dupla)
 
 
-## Semana 7 (21/03, 22/03)
+## ■■■■■ Semana 7 (21/03, 22/03) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
