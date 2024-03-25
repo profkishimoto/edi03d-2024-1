@@ -63,6 +63,7 @@
 - [Semana 5: TAD Fila sequencial/estática](#-semana-5-0703-0803-)
 - [Semana 6: Aula Magna da Graduação e TAD Fila dupla sequencial/estática](#-semana-6-1403-1503-)
 - [Semana 7: Revisão do conteúdo para a prova P1](#-semana-7-2103-2203-)
+- [Semana 8: **Prova P1** e feriado](#-semana-8-2803-2903-)
 
 
 ## ■■■■■ Semana 1 (08/02, 09/02) ■■■■■
@@ -221,3 +222,14 @@
 ### Referências e recursos
 
 - Ver semanas anteriores.
+
+
+## ■■■■■ Semana 8 (28/03, 29/03) ■■■■■
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- (28/03) Prova P1 (presencial e em horário de aula).
+- (29/03) Feriado. Bom descanso!
+
