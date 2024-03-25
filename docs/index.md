@@ -218,6 +218,7 @@
 ### Arquivos
 
 - [Exercícios de revisão/treino para a prova P1 (pdf)](conteudo/semana-7/EDI-2024.1%20-%20Exercícios%20de%20revisão%20P1.pdf)
+- [Implementação de pilha e fila com deque - Exemplo Java criado em aula (zip)](conteudo/semana-7/StackQueue_comDeque-20240322-03D.zip)
 
 ### Referências e recursos
 
